@@ -1,0 +1,24 @@
+{
+  "name": "selfcheck-frontend",
+  "version": "1.0.0",
+  "description": "Hyperspace by HTML5 UP html5up.net | @ajlkn Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antivirusengineers/selfcheck-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antivirusengineers/selfcheck-frontend/issues"
+  },
+  "homepage": "https://github.com/antivirusengineers/selfcheck-frontend#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
