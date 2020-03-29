@@ -10,5 +10,5 @@ jobs:
     - uses: lauchacarro/Azure-Storage-Action@master
       with:
         enabled-static-website: 'true'
-        folder: 'website'
+        folder: 'src'
         connection-string: ${{ secrets.selfcheck_connection_string }}
